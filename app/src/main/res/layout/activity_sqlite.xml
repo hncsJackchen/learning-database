@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/btn_sqlite_insert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="增加4行数据库" />
+
+
+    <Button
+        android:id="@+id/btn_sqlite_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="删除people表中的所有数据" />
+
+    <Button
+        android:id="@+id/btn_sqlite_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="更新数据库" />
+
+    <Button
+        android:id="@+id/btn_sqlite_query"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查询数据库" />
+
+
+</LinearLayout>

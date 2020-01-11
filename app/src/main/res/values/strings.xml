@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">learning-database</string>
+    <string name="welcome">即将开启Android数据库的学习之旅！</string>
+    <string name="android_native">Android原生方式</string>
+    <string name="greendao">GreenDao框架</string>
+
+</resources>
